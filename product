@@ -1,0 +1,105 @@
+<div class="section" id="Products">
+        <p style="font-size: 40px;">Products</p>
+        <span>Our Top Rated Dishes</span>
+
+        <div>
+            <div class="flip-card Products">
+                <div class="flip-card-inner">
+                    <div class="flip-card-front">
+                        <img src="img/pilau.jpg" alt="pilau pic">
+                    </div>
+                    <div class="flip-card-back">
+                        <h1>Pilau</h1>
+                    </div>
+                </div>
+            </div>
+
+            <div class="flip-card Products">
+                <div class="flip-card-inner">
+                    <div class="flip-card-front">
+                        <img src="img/ugali.jpg" alt="pilau pic" style="width:300px;height:300px;">
+                    </div>
+                    <div class="flip-card-back">
+                        <h1>Ugali</h1>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="flip-card Products">
+                <div class="flip-card-inner">
+                    <div class="flip-card-front">
+                        <img src="img/fd1 (2).jpg" alt="pilau pic" style="width:300px;height:300px;">
+                    </div>
+                    <div class="flip-card-back">
+                        <h1>brunch buffet</h1>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="flip-card Products">
+                <div class="flip-card-inner">
+                    <div class="flip-card-front">
+                        <img src="img/fd1 (3).jpg" alt="pilau pic" style="width:300px;height:300px;">
+                    </div>
+                    <div class="flip-card-back">
+                        <h1>Octopus Fried Rice</h1>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+
+        <div>
+            <div class="flip-card Products">
+                <div class="flip-card-inner">
+                    <div class="flip-card-front">
+                        <img src="img/fd1 (5).jpg" alt="pilau pic" style="width:300px;height:300px;">
+                    </div>
+                    <div class="flip-card-back">
+                        <h1>Grilled Beef Skewers</h1>
+                    </div>
+                </div>
+            </div>
+
+            <div class="flip-card Products">
+                <div class="flip-card-inner">
+                    <div class="flip-card-front">
+                        <img src="img/fd1 (4).jpg" alt="pilau pic" style="width:300px;height:300px;">
+                    </div>
+                    <div class="flip-card-back">
+                        <h1>Lunch Buffet</h1>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="flip-card Products">
+                <div class="flip-card-inner">
+                    <div class="flip-card-front">
+                        <img src="img/fd1 (1).jpg" alt="pilau pic" style="width:300px;height:300px;">
+                    </div>
+                    <div class="flip-card-back">
+                        <h1>BreakFast</h1>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="flip-card Products">
+                <div class="flip-card-inner">
+                    <div class="flip-card-front">
+                        <img src="img/fd1 (8).jpg" alt="pilau pic" style="width:300px;height:300px;">
+                    </div>
+                    <div class="flip-card-back">
+                        <h1>Bites</h1>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+
+    </div><br><br><br><br><br>
